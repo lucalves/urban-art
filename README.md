@@ -1,5 +1,7 @@
 # Urban Art
 
+[![GitHub stars](https://badgen.net/github/stars/lucalves/urban-art)](https://gitHub.com/lucalves/lucalves/urban-art/)
+
 Urban Art is a space to show graffiti works from around the world.
 
 ## Screenshots
