@@ -11,13 +11,13 @@ Urban Art is a space to show graffiti works from around the world.
 ## Instructions
 
 ```bash
-## Clone the repository on your local machine
+# Clone the repository on your local machine
 git clone git@github.com:lucalves/urban-art.git
 
-## Access the directory
+# Access the directory
 cd urban-art
 
-## Open index.html file!
+# Open index.html file!
 ```
 
 ## License
