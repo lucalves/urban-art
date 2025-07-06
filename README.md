@@ -22,4 +22,4 @@ cd urban-art
 
 ## License
 
-This is an open source project made with ❤️
+MIT
